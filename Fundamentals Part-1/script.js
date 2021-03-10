@@ -9,10 +9,9 @@
     console.log(23);
 
     let firstname = "Rumz";
-    
+
     console.log(firstname);
     console.log(firstname);
     console.log(firstname);
     console.log(firstname);
-    
     
